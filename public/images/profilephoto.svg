@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#4F46E5" opacity="0.2"/>
+  <circle cx="200" cy="150" r="80" fill="#4F46E5" opacity="0.5"/>
+  <rect x="100" y="250" width="200" height="150" rx="20" fill="#4F46E5" opacity="0.5"/>
+  <text x="200" y="380" font-family="Arial" font-size="20" text-anchor="middle" fill="#4F46E5">Profile Photo</text>
+</svg> 
