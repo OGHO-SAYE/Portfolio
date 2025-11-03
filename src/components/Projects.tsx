@@ -58,6 +58,26 @@ const projects = [
     liveLink: "https://omnifood-oghosaye.netlify.app/",
     imagePath: "/images/omnifood.png",
   },
+  {
+    id: 5,
+    title: "Campus Compass",
+    description:
+      "A cross-platform across iOS and Android devices. mobile navigation application built for Concordia University students and visitors to easily navigate both the SGW and Loyola campuses. Campus Compass provides detailed route guidance across various transportation modes,while also displaying information about campus buildings, and nearby points of interest such as cafés and restaurants.",
+    tags: [
+      "React Native",
+      "TypeScript",
+      "Expo",
+      "Android",
+      "iOS",
+      "Google Maps API",
+      "Cross-Platform Development",
+      "UI/UX Design",
+    ],
+    githubLink:
+      "https://github.com/Campus-Compass-SOEN-390/Watermelons_SOEN390",
+    liveLink: "",
+    imagePath: "/images/campusCompass.png",
+  },
 ];
 
 export default function Projects() {
