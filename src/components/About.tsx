@@ -51,15 +51,15 @@ export default function About() {
               Software Engineering Student
             </h3>
             <p className="text-gray-600 dark:text-gray-400 mb-4">
-              I'm a 5th-year software engineering student passionate about
+              I am a 5th-year software engineering student passionate about
               creating efficient, scalable, and user-friendly applications. My
               journey in software development has equipped me with strong
               problem-solving skills and a keen eye for detail.
             </p>
             <p className="text-gray-600 dark:text-gray-400 mb-6">
-              Throughout my academic career, I've worked on various projects
+              Throughout my academic career, I have worked on various projects
               that have helped me develop expertise in multiple programming
-              languages and frameworks. I'm particularly interested in web
+              languages and frameworks. I am particularly interested in web
               development, AI applications, and creating solutions that make a
               positive impact.
             </p>
