@@ -17,7 +17,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          Hi, I'm{" "}
+          Hi, I am{" "}
           <span className="text-indigo-600 dark:text-indigo-400">
             Uyi Oronsaye
           </span>

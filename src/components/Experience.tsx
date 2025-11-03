@@ -61,7 +61,7 @@ export default function Experience() {
           </h2>
           <div className="w-20 h-1 bg-indigo-600 mx-auto mb-6"></div>
           <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-            My professional journey and the companies I've had the pleasure to
+            My professional journey and the companies I have had the pleasure to
             work with.
           </p>
         </motion.div>
