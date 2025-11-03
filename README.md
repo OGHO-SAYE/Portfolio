@@ -79,20 +79,6 @@ portfolio/
 └── tailwind.config.ts   # Tailwind CSS configuration
 ```
 
-## Customization
-
-- **Personal Information**: Edit the content in each component file under `src/components/`
-- **Colors**: Modify the color scheme in `tailwind.config.ts`
-- **Resume**: Replace the placeholder file at `public/resume.pdf` with your actual resume
-
-## Deployment
-
-This portfolio is optimized for deployment on Vercel, but can be deployed on any platform that supports Next.js.
-
-### Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
